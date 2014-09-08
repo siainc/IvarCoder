@@ -1,0 +1,14 @@
+PODS:
+  - IvarCoder (0.1.0)
+
+DEPENDENCIES:
+  - IvarCoder (from `../`)
+
+EXTERNAL SOURCES:
+  IvarCoder:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IvarCoder: c7505068fce15e8251405a9200ca699bd9eccd61
+
+COCOAPODS: 0.33.1

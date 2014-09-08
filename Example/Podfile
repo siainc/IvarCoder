@@ -1,0 +1,4 @@
+
+target 'IvarCoder', :exclusive => true do
+  pod "IvarCoder", :path => "../"
+end
